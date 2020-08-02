@@ -1,0 +1,24 @@
+{
+  "name": "to-upper-case",
+  "version": "1.0.0",
+  "description": "Makes a string fully uppercase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AprixStudios/to-upper-case.git"
+  },
+  "keywords": [
+    "to",
+    "upper",
+    "case"
+  ],
+  "author": "AprixStudios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AprixStudios/to-upper-case/issues"
+  },
+  "homepage": "https://github.com/AprixStudios/to-upper-case#readme"
+}
