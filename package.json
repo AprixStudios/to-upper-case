@@ -1,5 +1,5 @@
 {
-  "name": "to-upper-case",
+  "name": "string-to-upper-case",
   "version": "1.0.0",
   "description": "Makes a string fully uppercase.",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "case"
   ],
   "author": "AprixStudios",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AprixStudios/to-upper-case/issues"
   },

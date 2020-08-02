@@ -28,7 +28,7 @@ npm install to-upper-case
 ## Example
 
 ```js
-const upperCase = require('to-upper-case');
+const upperCase = require('string-to-upper-case');
 
 upperCase("oh no!"); // "OH NO!"
 
