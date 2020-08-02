@@ -49,7 +49,7 @@ upperCase("Yes."); // "YES."
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AprixStudios/to-upper-case/issues). You can also take a look at the [contributing guide](https://github.com/AprixStudios/to-upper-case/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AprixStudios/to-upper-case/issues).
 
 ## Show your support
 
